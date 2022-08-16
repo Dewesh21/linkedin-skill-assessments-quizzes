@@ -611,3 +611,9 @@ SELECT 123+'abc' AS Result;
 - [ ] 123'abc'
 - [ ] '123abc'
 - [ ] error
+Which one is not TCL commands?
+
+- [ ] COMMIT
+- [ ] -ROLLBACK
+- [X] GRANT
+- [ ] SAVEPOINT
